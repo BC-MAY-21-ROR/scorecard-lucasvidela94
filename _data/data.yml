@@ -7,20 +7,16 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  name: Lucas Videla # Nombre completo
+  tagline: Ruby on rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: lucasan.videla@gmail.com
+  phone: +54 297155140205
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
-  gitlab:
-  bitbucket:
-  twitter: '@BrightCoders'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  linkedin: https://www.linkedin.com/in/lucasandres-videla
+  github: https://www.github.com/lucasvidela94
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -31,9 +27,6 @@ sidebar:
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
-    - idiom: German
-      level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
@@ -50,92 +43,86 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    Hi my names is Lucas and im a rails web developer formear react developer,im from argentina looking to have my oportunity to enhance my career,solid hard worker and a student for life.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Analist programmer
+    university: Argentina,San Juan Bosco University
+    time: 2019 - current
     details: |
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
+  - degree: Javascript
+    bootcamp: ArgentinaPrograma
+    time: 2020 - 2020
     details: |
-      Unsupervised deep learning for automatic behavior analysis
+      Full stack Web development bootcamp
 
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
+        - Javascript
+        - React
+        - Node.js
+        - Express
 
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
+  - degree: University chemistry technician
+    university: San Juan Bosco University
+    time: 2017-current
     details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
+      Education with a strong experimental component and a solid general training in the different branches of chemistry. 
 
-        - Deep learning
-        - Hand Gesture
+        - Team work
+        - Study in ciences
 
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
+  - degree: Full Stack Web Development
+    course: Udemy
+    time: 2021 - 2022
     details: |
-      Master degree in Computer Engineering
+      Full Stack web development bootcamp from Colt Steel
+
+        - Javascript
+        - Bootstrap
+        - CSS
+        - Node.js
+        - Express
+        - RestApi
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Community Manager
+    time: 2019 - 2021
+    company: Architecture Studio,Comodoro Rivadavia,Argentina
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      Resourceful Community Manager proficient to determine audience interest and develop strategic go-to-market communication plans that align with the company’s business priorities and initiatives. Skilled at analyzing market trends and customer needs to develop highly effective and targeted marketing campaigns.
+        - SEO
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Administrative secretary
+    time: 2017-2018
+    company: Distributor MM, Comodoro Rivadavia
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-# Registra aquí los proyectos en los que has participado
+      - Time management
+      - Materials Management
+      - Comunication with equipment
+
+      Registra aquí los proyectos en los que has participado
 projects:
-    title: Projects
-    
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  title: Projects
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+  assignments:
+    - title: Business adminstrative tool for Check in and check out
+      link: "#hook"
+      tagline: "Administrative tool for time management in order to improve quality work."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    - title: React e-commerce mock up
+      link: "#"
+      tagline: "A responsive website mock up for amazon Spain."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    - title: Architecture web site
+      link: "#"
+      tagline: "A responsive website for Estudio Sur,Architecture for contact and information"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-        
+    - title: SAPEC
+      link: "#"
+      tagline: "A web aplication for startups/business people to help keep their budget in order."
+
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
 # 40% para Advanced beginner
@@ -146,23 +133,23 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
+    - name: Ruby
+      level: 70%
 
-    - name: PyTorch
-      level: 40%
+    - name: Ruby On rails
+      level: 70%
 
-    - name: Tensorflow
-      level: 60%
-
-    - name: Caffe
+    - name: Rspec/Testing
       level: 80%
 
-    - name: Matlab
-      level: 100%
+    - name: Javascript
+      level: 90%
 
-    - name: C/C++
-      level: 40%
+    - name: React.js
+      level: 80%
+
+    - name: Jest
+      level: 60%
 
 # NO MODIFICAR
 footer: >
