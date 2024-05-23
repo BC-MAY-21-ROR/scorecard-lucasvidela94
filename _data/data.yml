@@ -42,8 +42,9 @@ sidebar:
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
+  
   summary: |
-    I am a person passionate about technology and I love programming, I am fascinated by areas such as web development, and its application in terms of helping the community. I am an autodidact programmer, I like to learn new things no matter how hard they are.I am a Analist programmer studennt. I love learning about programming and improving my work through the use of best practices and logical thinking. I am a proactive,curious, diligent person with a great disposition for teamwork. Sharing knowledge and self-learning are things that I enjoy. My biggest passion is to tech, which I think with proper alignment can help us all to become a better person, friend, worker, and a productive member of society. Currently, I looking to become a have an opportunity as a junior developer at an innovative company, where I can get the opportunity to be creative and solve problems people struggle with every day hoping to find mentorship in order to become a better worker,developer and a person in the end.
+  Passionate about technology and web development, I am an experienced Full Stack Developer with a background in Python and React. I thrive on solving problems and improving processes through best practices and logical thinking. As an autodidact and lifelong learner, I continually seek to expand my skill set and knowledge base. With a proactive, curious, and diligent approach, I excel in teamwork and enjoy sharing knowledge. My goal is to leverage technology to make a positive impact on the community. I am looking for opportunities to grow further as a developer and contribute to innovative projects.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
@@ -103,6 +104,20 @@ experiences:
       - Comunication with equipment
 
       Registra aquí los proyectos en los que has participado
+
+  - role: Full Stack Developer
+    time: 2022 - 2024
+    company: Logra
+    details: |
+      Full Stack Developer with a focus on Python and React, responsible for both front-end and back-end development. Experienced in Agile development methodologies and Scrum framework.
+        - Front End Developer in React
+        - Back End Developer in Django
+        - Agile Development
+        - Scrum
+        - Maintenance and Technical Support
+        - Optimization
+        - Full Stack Development
+
 projects:
   title: Projects
 
