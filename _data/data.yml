@@ -17,8 +17,8 @@ sidebar:
   website: lucasvidela.vercel.app/ # No agregar http://
   linkedin: https://www.linkedin.com/in/lucasandres-videla
   github: https://www.github.com/lucasvidela94
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
+  codewars: ""
+  goodreads: "" # Number-Username, e.g. 123456-alandoe
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
@@ -42,9 +42,9 @@ sidebar:
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
-  
+
   summary: |
-  Passionate about technology and web development, I am an experienced Full Stack Developer with a background in Python and React. I thrive on solving problems and improving processes through best practices and logical thinking. As an autodidact and lifelong learner, I continually seek to expand my skill set and knowledge base. With a proactive, curious, and diligent approach, I excel in teamwork and enjoy sharing knowledge. My goal is to leverage technology to make a positive impact on the community. I am looking for opportunities to grow further as a developer and contribute to innovative projects.
+    Passionate about technology and web development, I am an experienced Full Stack Developer with a background in Python and React. I thrive on solving problems and improving processes through best practices and logical thinking. As an autodidact and lifelong learner, I continually seek to expand my skill set and knowledge base. With a proactive, curious, and diligent approach, I excel in teamwork and enjoy sharing knowledge. My goal is to leverage technology to make a positive impact on the community. I am looking for opportunities to grow further as a developer and contribute to innovative projects.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
