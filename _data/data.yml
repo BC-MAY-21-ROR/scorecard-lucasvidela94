@@ -68,7 +68,7 @@ educationcomplete:
     university: San Juan Bosco University
     time: 2017-current
     details: |
-      Education with a strong experimental component and a solid general training in the different branches of chemistry. 
+      Education with a strong experimental component and a solid general training in the different branches of chemistry.
 
         - Team work
         - Study in ciences
@@ -103,8 +103,6 @@ experiences:
       - Materials Management
       - Comunication with equipment
 
-      Registra aquí los proyectos en los que has participado
-
   - role: Full Stack Developer
     time: 2022 - 2024
     company: Logra
@@ -117,6 +115,20 @@ experiences:
         - Maintenance and Technical Support
         - Optimization
         - Full Stack Development
+
+  - role: Freelance Full Stack Developer
+    time: 2024 - 2025
+    company: Ecommerce Project
+    details: |
+      Freelance Full Stack Developer working with React Native and GoLang for an ecommerce project. Involved in all aspects of the system, from database design and system architecture to product roles and collaboration with the technology team.
+        - React Native
+        - GoLang
+        - System Architecture
+        - Database Design
+        - Team Collaboration
+        - Product Role Definitions
+        - Technology Stack Decisions
+        - Agile Methodologies
 
 projects:
   title: Projects
@@ -149,10 +161,10 @@ skills:
 
   toolset:
     - name: Ruby
-      level: 70%
+      level: 80%
 
     - name: Ruby On rails
-      level: 70%
+      level: 80%
 
     - name: Rspec/Testing
       level: 80%
@@ -165,6 +177,15 @@ skills:
 
     - name: Jest
       level: 60%
+
+    - name: golang
+      level: 80%
+
+    - name: React native
+      level: 80%
+
+    - name: Python
+      level: 90%
 
 # NO MODIFICAR
 footer: >
