@@ -71,7 +71,7 @@ educationcomplete:
       Education with a strong experimental component and a solid general training in the different branches of chemistry.
 
         - Team work
-        - Study in ciences
+        - Study in sciences
 
   - degree: Full Stack Web Development
     course: Udemy
@@ -101,7 +101,7 @@ experiences:
     details: |
       - Time management
       - Materials Management
-      - Comunication with equipment
+      - Communication with equipment
 
   - role: Full Stack Developer
     time: 2022 - 2024
@@ -130,11 +130,24 @@ experiences:
         - Technology Stack Decisions
         - Agile Methodologies
 
+  - role: Frontend Developer
+    time: 2024 - Present
+    company: Ayahuasca
+    details: |
+      Front-end Developer for Ayahuasca Project, a natural medicine e-commerce platform. Led front-end development and UI implementation while integrating multiple payment gateways. Developed serverless endpoint architecture and managed infrastructure deployment. Responsibilities included responsive design implementation, API integration, and ensuring a seamless user experience throughout the purchasing process.
+        - Frontend Development
+        - UI Implementation
+        - Payment Gateway Integration
+        - Serverless Architecture
+        - Responsive Design
+        - API Integration
+        - User Experience Optimization
+
 projects:
   title: Projects
 
   assignments:
-    - title: Business adminstrative tool for Check in and check out
+    - title: Business administrative tool for Check in and check out
       link: "#hook"
       tagline: "Administrative tool for time management in order to improve quality work."
 
@@ -190,3 +203,4 @@ skills:
 # NO MODIFICAR
 footer: >
   BrightCoders for a brighter future!
+
